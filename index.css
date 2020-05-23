@@ -82,7 +82,7 @@ body {
   left:0px;
 }
 .form-control.error small {
-  color: #e74c3c
+  color: #e74c3c;
   visibility: visible;
 }
 .form button {
